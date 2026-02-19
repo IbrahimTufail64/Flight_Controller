@@ -1,0 +1,16 @@
+# KiCad autosave / backup
+*_autosave-*
+*-backups/
+#auto_saved_files#
+~*.lck
+
+# KiCad local preferences
+*.kicad_prl
+
+# Temporary files
+*.tmp
+*.bak
+
+# OS junk
+.DS_Store
+Thumbs.db
